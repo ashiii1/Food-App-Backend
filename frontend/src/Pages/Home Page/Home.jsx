@@ -2,7 +2,7 @@ import React, { useState, useEffect, memo  } from "react";
 import "./Home.css";
 import Button from "../../Components/Button";
 import { useNavigate } from "react-router-dom";
-import Card from "../../Components/Card";
+import Card from "../../Components/card";
 import home2 from "../../Images/home2.png";
 import { FaPhone } from "react-icons/fa";
 import bg1 from "../../Images/bg_1.png"

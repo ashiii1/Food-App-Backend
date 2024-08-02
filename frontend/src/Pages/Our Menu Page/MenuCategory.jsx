@@ -1,6 +1,6 @@
 import React, { useEffect } from "react";
 import DishCard from "../../Components/DishCard";
-import Card from "../../Components/Card";
+import Card from "../../Components/card";
 import { useSearchParams } from "react-router-dom";
 import "./MenuCategory.css";
 import Loading from "../../Components/Loading/Loading";
