@@ -1,8 +1,0 @@
-.container{
-    color:white;
-    background-image: url('../../Images/bg_4.jpg');
-  background-size: cover; /* Adjust as needed, e.g., 'contain', '100% 100%', etc. */
-  background-repeat: repeat; 
-  padding: 40px;
-    margin-bottom: -20px;
-}

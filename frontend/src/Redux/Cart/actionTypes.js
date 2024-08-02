@@ -1,5 +1,0 @@
-
-export const GETCART_REQ = "GETCART_REQ";
-export const GETCART_SUCCESS = "GETCART_SUCCESS";
-export const GETCART_REJ = "GETCART_REJ";
-export const REMOVE_DISH = "REMOVE_DISH"
